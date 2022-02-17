@@ -2,13 +2,6 @@
 20. Valid Parentheses
 Easy
 
-11267
-
-481
-
-Add to List
-
-Share
 Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
 An input string is valid if:

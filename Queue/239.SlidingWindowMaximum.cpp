@@ -1,0 +1,2 @@
+/*
+Monotonic Queue is a data structure that keeps its elements either entirely in non-increasing or entirely non-decreasing order. Mostly used as a dynamic programming optimization technique, and for some problems where it is applicable we can reduce the reasoning to finding the nearest element,. 
