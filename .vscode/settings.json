@@ -3,6 +3,7 @@
     "stack": "cpp",
     "iostream": "cpp",
     "string": "cpp",
-    "vector": "cpp"
+    "vector": "cpp",
+    "cstdlib": "cpp"
   }
 }
