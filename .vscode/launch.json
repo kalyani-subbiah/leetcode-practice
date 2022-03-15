@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Permutations",
+      "request": "launch",
+      "mainClass": "Permutations",
+      "projectName": "leetcode-practice_9b144924"
+    },
+    {
+      "type": "java",
       "name": "Launch Subsets",
       "request": "launch",
       "mainClass": "Subsets",
